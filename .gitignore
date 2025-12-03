@@ -19,6 +19,7 @@ __pycache__/
 # Large data files (We will keep the 'data' folder but ignore its contents later)
 /data/*
 !/data/.gitkeep
+/src/data/*
 
 # CUDA/PCL related logs or output
 *.log
